@@ -1,5 +1,5 @@
 ﻿
-4.EJERCICIOS DE PRÁCTICA
+//4.EJERCICIOS DE PRÁCTICA
 using System;
 
 class Program
